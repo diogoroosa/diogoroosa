@@ -6,7 +6,7 @@
 - 🎓 I hold a **Bachelor's degree in Computer Science and Computer Engineering** from [ISEL](https://www.isel.pt) with a **final grade of 15/20**.  
 - 🚀 Currently starting my **Master’s degree in Computer Engineering** at [FCUL](https://ciencias.ulisboa.pt/).  
 - 💻 Passionate about **full stack development**, with experience in **web, mobile, and distributed systems**.  
-- 🤝 Always open to collaborate on **innovative projects** involving **React, Node.js, Java, and Kotlin**, with growing interest in **cloud and distributed systems**.
+- 🤝 Always open to collaborate on **innovative projects** involving **React, Node.js, Spring, Java, and Kotlin**, with growing interest in **cloud and distributed systems**.
 - 🏆 My final project (graded 17/20): [OpenAPI Mocking Server](https://github.com/isel-openapi-mock-server/mock-system).  
 
 ---
